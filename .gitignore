@@ -1,0 +1,10 @@
+.vscode
+.idea
+
+venv/
+node_modules/
+media/
+sets/
+
+.env.dev
+aws-key-2.pem
